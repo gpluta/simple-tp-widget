@@ -3,9 +3,10 @@ A modern version of Node.js is required to build this project (current v6 LTS wo
 To build and view the widget, execute:
 
 ```
-$ git clone XXX
+$ git clone git clone git@bitbucket.org:gpluta/trustpilot-widget.git
+$ cd trustpilot-widget
 $ yarn
 $ gulp 
 ```
 
-and visit `http://localhost:3000`
+Visit `http://localhost:3000`

@@ -4,6 +4,7 @@ const
   concat = require('gulp-concat'),
   gulp = require('gulp'),
   imagemin = require('gulp-imagemin'),
+  runSeq = require('run-sequence'),
   sass = require('gulp-sass');
 
 const vendorScripts = [
@@ -59,4 +60,6 @@ gulp.task('watch', () => {
   gulp.watch('src/sass/**/*.scss', ['sass', 'bs-reload']);
 });
 
-gulp.task('default', ['sass', 'scripts', 'vendorScripts', 'bs', 'watch']);
+gulp.task('default', cb => {
+  runSeq(['sass', 'scripts', 'vendorScripts'], 'bs', 'watch', cb);
+});
