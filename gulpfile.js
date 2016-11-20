@@ -4,6 +4,7 @@ const
   concat = require('gulp-concat'),
   gulp = require('gulp'),
   imagemin = require('gulp-imagemin'),
+  plumber = require('gulp-plumber'),
   runSeq = require('run-sequence'),
   sass = require('gulp-sass');
 
@@ -13,6 +14,7 @@ const vendorScripts = [
 
 gulp.task('sass', () =>
   gulp.src('src/sass/**/*.scss')
+    .pipe(plumber())
     .pipe(sass())
     .pipe(gulp.dest('dist/css/'))
 );
@@ -20,6 +22,7 @@ gulp.task('sass', () =>
 
 gulp.task('scripts', () =>
   gulp.src('src/js/**/*.js')
+    .pipe(plumber())
     .pipe(babel())
     .pipe(gulp.dest('dist/js'))
 );
@@ -58,6 +61,7 @@ gulp.task('bs-reload', () => {
 gulp.task('watch', () => {
   gulp.watch('src/js/**/*.js', ['scripts', 'bs-reload']);
   gulp.watch('src/sass/**/*.scss', ['sass', 'bs-reload']);
+  gulp.watch('index.html', ['bs-reload']);
 });
 
 gulp.task('default', cb => {
