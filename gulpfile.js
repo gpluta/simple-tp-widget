@@ -10,7 +10,6 @@ const babel = require('gulp-babel'),
   uglify = require('gulp-uglify');
 
 const vendorScripts = [
-  'node_modules/jquery/dist/jquery.min.js',
   'node_modules/whatwg-fetch/fetch.js'
 ];
 
