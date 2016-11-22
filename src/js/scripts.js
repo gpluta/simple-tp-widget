@@ -1,7 +1,8 @@
 (() => {
-  // Model for the current widget
+  // "Model" for the current widget
   let data = {};
 
+  // Return the widget template, based on the `data` object
   let widgetContentTemplate = () => `
     <div class="widget hidden">
       <div class="widget__header">${data.businessUnit.displayName}</div>
@@ -12,6 +13,7 @@
     <div class="see-more">Click for details</div>
   `;
 
+  // Function returning the list of rviews to be rendered inside the modal
   let renderRecentReviewsList = () => {
     let template = [];
     data.reviews.forEach(review => {
@@ -29,6 +31,7 @@
     return template.join('');
   };
 
+  // Function returning the html of the modal
   let modalContentTemplate = () => `
     <div class="blanket">
         <div class="modal">
@@ -44,23 +47,32 @@
     </div>
   `;
 
+  // Function directly responsible for teearing down the modal window
   let destroyModalWindow = () => {
+    // First - all attached events are detached, so we don't litter the DOM
     document.getElementById('closeModal').removeEventListener('click', handleModalEvents);
     document.querySelector('.blanket').removeEventListener('click', handleModalEvents);
     document.removeEventListener('keydown', handleModalEvents);
 
+    // Second, the HTML contents of the modal are wiped
     document.getElementById('modalAnchor').innerHTML = '';
   };
 
+  // Function repsonsible for initiating the modal window teardown
   let handleModalEvents = e => {
+    // If a correct event is detected, `destroyModalWindow` is executed
     if (e.keyCode === 27 || (e.type === 'click' && (['closeModal', 'closeModal__icon'].includes(e.target.id)  || e.target.classList[0] === 'blanket'))) {
       destroyModalWindow();
     }
   };
 
+  // A function triggered after clicking the widget
   let renderModalWindow = () => {
+    // Launch the modal window
     document.getElementById('modalAnchor').innerHTML = modalContentTemplate();
 
+    // Attach event listeners required to close the modal
+    // (Click the 'X' button, cllick the 'blanket' or press ESCAPE
     document.getElementById('closeModal').addEventListener('click', handleModalEvents);
     document.querySelector('.blanket').addEventListener('click', handleModalEvents);
     document.addEventListener('keydown', handleModalEvents);
@@ -68,12 +80,15 @@
 
   let renderTrustedButton = () => {
     document.getElementById('widgetAnchor').innerHTML = widgetContentTemplate();
+
+    //Remove the hidden class to toggle smooth fadein animation
     document.querySelector('.widget').classList.remove('hidden');
 
     //Attach event handler to newly addedd 'button'
     document.querySelector('#widgetAnchor').addEventListener('click', renderModalWindow)
   };
 
+  // Fetch the json file containing review info
   let getTrustPilotReviews = url => {
     if (url) {
       fetch(url)
@@ -86,6 +101,8 @@
         })
         .then(resp => {
           data = JSON.parse(resp);
+
+          // If all is ok, render the button
           renderTrustedButton();
         })
         .catch(error => {
