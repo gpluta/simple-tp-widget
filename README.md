@@ -8,7 +8,7 @@ The whole widget is rendered with JavaScript, as I have assumed, that the widget
  
 ### Launching the widget
 
-A modern version of Node.js is required to build this project (current v6 LTS would be perfect!).
+A modern version of Node.js is required to build this project (current v6 LTS would be perfect!). You need to have gulp-cli installed globally.
 
 To build and view the widget, execute:
 
