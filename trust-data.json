@@ -1,0 +1,244 @@
+{
+  "businessUnit": {
+    "stars": 2,
+    "trustScore": 4.6,
+    "displayName": "TDC Erhverv A/S",
+    "numberOfReviews": {
+      "total": 6166,
+      "oneStar": 2154,
+      "twoStars": 805,
+      "threeStars": 840,
+      "fourStars": 1230,
+      "fiveStars": 1137
+    },
+    "websiteUrl": "http://erhverv.tdc.dk"
+  },
+  "reviews": [
+    {
+      "stars": 1,
+      "createdAt": "2016-11-02T10:35:34Z",
+      "title": "Jeg er totalt utilfreds med TDC/Yousee's kundesupport!",
+      "text": "Jeg har fået nyt modem. I den forbindelse opdager jeg at der er lukket for  FTP port 21. Jeg har nok ringet 8 gange til kundesupport og enten har jeg fået at vide at de ikke supportere port 21 og ellers har jeg fået de vildeste løgnehistorier. F.eks. Murat, som fortæller mig at min domæne er blevet blokeret af min udbyder på TDC's net, det kan han se i sit system !?!?! \nNu har jeg fået fremsendt endnu et modem, som har en anden software. Software versionen er fuldstændig den samme !! Forskellen er at firewall er slået til som default i den ene og fra i den anden! Det er ikke i orden at pisse på sine kunder!\nKundesupporten fortæller, at de ikke supporterer port 21 eller portforward (som er måden til at åbne for porten), men der ligger guides på TDC/YOUSEE internetside som forklarer hvordan man gør. \nJeg vil ikke finde mig i, at min leverandør lyver overfor mig! \nJeg vil ikke acceptere, at min leverandør benytter så dårligt uddannede unge mennesker som ikke ved hvad de skal fortælle kunderne, andet end at komme med løgne! \nJeg kan ikke forstå hvorfor TDC/YOUSEE ikke fortæller at der er blevet lukket for port 21. \nJeg kan ikke forstå, hvorfor de ikke henviser til SFTP på port 22 (men det har nok noget at gøre med den dårlige uddannelse).\nFor hel.... TDC/YOUSEE - i skal tage jeres kunder seriøst!",
+      "reviewUrl": "https://www.trustpilot.com/reviews/5819c176827ad309ecfa2a8a",
+      "consumer": {
+        "displayName": "Chris Bruhn"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-10-13T16:45:50Z",
+      "title": "Hvis du får tilbudt delt regning med din arbejdsgiver så løøøb langt væk!!!!",
+      "text": "Desværre kan man ikke give minuspoint. Men hold op inkompetence får en helt ny dimension efter at have været i gentagne kontakt med yousee og ja Kafka ville får mere en skrivestof hvis han havde været i kontakt med \"firmaet\". Min arbejdsgiver har desværre valgt TDC/ Yousee som udbyder til medarbejder it opkobling. Jeg  var tåbelig nok til at hoppe på ordningen, hvor arbejdsgiver betaler \"linjen\" og jeg tv delen . For hold op efter 8 opkald 4 forskellige ordrer modtagelser har genierne i yousee/TDC stadig ikke formået at lave en enkelt ændring. Sagen, ja jeg store fjols troede at jeg uden de store vanskeligheder kunne ændre min Tv pakke fra en lille til en stor. Ved første kontakt aftalte jeg havde med yousee medarbejderen at denne, uden at ændre på andet, bare skulle foretage ændringen på tv pakken; Resultatet hele den eksisterende aftalen blev opsagt og jeg fik  en ordre på at min arbejdsgiver andel var opsagt og at jeg nu som privatkunde skulle betale det hele selv oveni købet dyre! Nå det var en ung mand jeg talte med så jeg prøvede endnu engang, resultat, Ingen tilbagemelding. hmmm ringer igen og får en ung frisk pige som lover at bringe tingen i orden; resultat prisen, hastighed  og ikke mindst regningen til min arbejdsgiver bliver ændret! Nå ringer nu og insistere på at få erhvervs afdelingen  ( som åbenbart ligger på fyn)og insistere på at den eneste ændring som skal ske er tv pakken som ret banalt skal ændres, alt andet skal forblive urørt, fik ikke en ordrebekræftelse og ringede på baggrund af de dårlige oplevelser Resultat, har lige fået en regning hvor jeg står som arbejdsgiver og har fået hele regningen og også trods erhvervsafdelingen udtrykkeligt fortalte at alt var i orden!!! For pokker har brugt ufatteligt meget telefontid og ikke mindst forsøgt at få den største diplomat frem, men her kæmper selv guderne forgæves. Så forsøg for alt i verden overtale jeres arbejdsgiver til at vælge en anden udbyder alt andet kan kun blive bedre og dybt bekymrende for datasikkerheden at man som medarbejder kan ændre på de aftaler denne har med you see!!!!!",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57ffba3e03f54b08d4df30c0",
+      "consumer": {
+        "displayName": "Martin Møland Nielsen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 5,
+      "createdAt": "2016-10-04T20:42:53Z",
+      "title": "TDC = super",
+      "text": "Har haft TDC så længe jeg kan huske. og der har sku aldrig været problemer med dem. det eneste minus der er ved TDC er deres lange ventetid når man ringer til kundeservice. Men sådan er det vel at være populær ;)",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57f4144da43068088c1b7faf",
+      "consumer": {
+        "displayName": "Kasper Christiansen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-10-03T10:48:33Z",
+      "title": "Forfærdeligt net..",
+      "text": "TDC har forfærdeligt net! Det går hele tiden og sådan er det for næsten alle med TDC.. Det er for ringe!",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57f23781a430680b50bd45c1",
+      "consumer": {
+        "displayName": "Niklas Stallknecht"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-28T14:28:18Z",
+      "title": "Uprofessionel",
+      "text": "TDCs metode er simpel: send en flink sælger, få underskrift på kontrakten - og så har vi en \"mælkekø\". Deres telefoniservice er rigtig dårlig. Altid ventetiden og aldrig korrekt info. Udover det glem om at du kan spørge TDC om detaljer af din kontrakt. Du vil blive oplyst noget generelt... uden \"det med småt\". Og her vil TDC huske \"dig\" - også 2år efter, og dukke på for at have sine penge. Derfor siger jeg: har du et firma, vælg andet firma, hvor du har ingen binding og bedre priser. Det tager 30 sekunder at finde mindst 5 andre udbydere.",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57ebd38203f54b0bcc2bcf71",
+      "consumer": {
+        "displayName": "Michael"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-27T12:43:49Z",
+      "title": "Ufattelig DÅRLIG service",
+      "text": "Jeg lavede en aftale med en af Yousee's medarbejder at jeg skulle have internet, han sagde at de ville komme og sætte det op den 12/9 det gjorde de ikke!!!!\nHan lovede mig GRATIS oprettelse og det fik jeg sjovt nok heller ikke!!! \nSå alt i alt mega dårlig service.\nMEN som om det ikke er nok så når man skal ringe ind til deres så kaldte kundecenter så skal man vente i langt over 30 min for at kunne klage over deres dårlig service.\nSÅ HVIS NOGEN OVERVEJER YOUSEE SÅ LAD VÆRE!!!!!",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57ea6985a164ed0688d9f391",
+      "consumer": {
+        "displayName": "Simone Nielsen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 5,
+      "createdAt": "2016-09-26T09:30:25Z",
+      "title": "Virkelig god service.",
+      "text": "Vi har lige haft en montør fra TDC til at fejlrette vores internetforbindelse. Det er en fantastisk service montøren Peter ydede. Virkelig venlig og behagelig og havde humor også. En virkelig god oplevelse og internet virkede bedre og er hurtigere end det nogensinde havde gjort før. En virkelig god oplevelse af kundeservice på højt plan",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57e8eab10000ff00098c3973",
+      "consumer": {
+        "displayName": "Erik Madsen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-23T21:40:43Z",
+      "title": "Uacceptabel",
+      "text": "😠😠😠\nI februar køber jeg en ny tlf hos tdc i næstved,\nEn Samsung galaxy s5 mini...\nLige fra start lave den masser af fejl, derfor gik jeg med det samme ned for at bytte den, men i\nButikken vil de ikke bytte den, de henholder sig til den skal til reparation også selvom den er helt ny.\n Efter nogen tid få jeg den tilbage men de samme fejl dukker op, så af sted med den igen, og det samme sker igen og igen altså 5 gange\nOgså selvom jeg beder om at få pengene tilbage,  eller tilbyder at købe en anden tlf, men nej det må de ikke siger de..\nDe forbeholder sig retten til at prøve at få den til at virke....\nNu der gået over et halv år, og tlf er stadigvæk ikke kommet tilbage fra rep, altså den femte gang, derfor går jeg idag igen forbi butikken \nNu giver de mig ret i der er gået forlang tid, og giver derfor mig en ny tlf, en magen til og han få låne tlf tilbage. .\nHan giver mig det hele i en pose, så først da jeg kommer hjem opdager jeg at han hade taget mit sim kort ud og lavet det om fra et mini simkort til et mikro simkort\nAltså nu kan jeg ikke bruge tlf , jeg ringer ind til tdc som beklager fejlen og vil sende mig et nyt simkort men der kunne gå op til 14 dage, før jeg får det..\nJeg har kun haft problemer med tdc i det halve år, nu kan jeg slet ikke bruge min tlf 😠😠😠😠😠😠😠😠😠😠\nJeg har klaget  til tdc flere gange men endnu ikke fået svar...... JEG KAN IKKE ANBEFALE TDC 😤",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57e5a15b0000ff00098b9b06",
+      "consumer": {
+        "displayName": "morten"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-22T17:36:09.113Z",
+      "title": "Fuldstændig uacceptabel servicemoral",
+      "text": "TDC tilhører denne kategori af virksomheder, hvor i samarbejde med inkasso bureauer har udviklet en industri, og mælker almindelige kunder. I mit tilfælde, som erhvervskunde, en regning på ca. 30kr blev 1650kr, da  efter opsigelse, fortsætter abbonnement alligevel yderligere 3 måneder. Det har TDC ikke oplyst i vores kommunikation per email, men har fået det at vide af inkasso bureauet efterfølgende.",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57e416890000ff00098b22b8",
+      "consumer": {
+        "displayName": "Nikolaos Asvestas"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 4,
+      "createdAt": "2016-09-19T10:09:26Z",
+      "title": "Vi har TDC Erhverv",
+      "text": "Og vi er super tilfredse med den løsning de levere. Kundeservice er altid til at få fat på, og ventetiderne er ikke til at klage over.\n\nJeg vil helt sikkert anbefale TDC som en af de mest stabile løsninger på det danske marked.",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57dfb9560000ff00098997a2",
+      "consumer": {
+        "displayName": "Peter S."
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-18T07:53:57.153Z",
+      "title": "Tdc er ligeglad med deres kunder",
+      "text": "Vores virksomhed har ikke haft telefon og internet i 3 uger og har ikke fået det endnu. \nTdc siger det er pga overgarvet kabel. \nJeg vil råde alle jer der driver en seriøs virksomhed til at ikke vælge Tdc \nDa det kan ende med i må lukke for man kan ikke drive en virksomhed uden telefon og internet i så lang tid.",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57de48150000ff00098942dc",
+      "consumer": {
+        "displayName": "Kim S CHRISTENSEN "
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-17T06:37:52Z",
+      "title": "nu er det nok, ingen dækning på mobilen og dårligt internet",
+      "text": "Vi har ringet til tdc mere ind 10 gange angående langsomt internet og ingen dækning på mobiltelefonen, der sker bare ikke noget, vi betaler vores dyre regninger for noget vi ikke får og har været kunde hos tdc i hele vores liv, tdc har haft mere end 30 år til at få ud bedret deres dæknings område,  men intet er sket, det er bare for dårligt !",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57dce4c00000ff000988fd50",
+      "consumer": {
+        "displayName": "Hanne Hastig"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-16T17:47:22.127Z",
+      "title": "PINLIGT !!!!",
+      "text": "Er blevet ringet af en TDC medarbejder ang. To år gammel faktura på en fax. For det første er der banke på service og viderestilling på regningen, hvilket ikke er helt logisk på en fax. For det andet er der rykkergebyrer og renter på faktura. Nu er problemet at TDC ikke har rykket, men blot haft rod i systemet. Medarbejderen fra TDC sagde at han var sat til at rydde op. På trods at det mener TDC at det er dokumentation nok for både banke på, viderestilling, renter og rykkergebyr at de kan se det i deres system.....\nVi har tidligere modtaget kreditnotaer på op til kr 19.000 for fejl de har lavet, så blind tillid har vi ikke.\nVi skiftede i sin tid til Yousee for at komme væk fra TDC. Nu har de så købt Yousee. Så er det ødelagt og jeg har d.d. Opsagt alle virksomheden abonnementer i Yousee.\nALDRIG MERE TDC!!",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57dc302a0000ff000988dde7",
+      "consumer": {
+        "displayName": "Rasmus Christensen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-15T12:37:31Z",
+      "title": "Fejl i fakturaer",
+      "text": "Få styr på jeres fakturaer. Det er en kamp at få korrekte fakturaer til rette adresse. Kom nu TDC",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57da960b0000ff0009885389",
+      "consumer": {
+        "displayName": "Louise Andersen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-14T11:43:06Z",
+      "title": "Halve oprettelser og fejlagtige regning",
+      "text": "Oprettelser af mobiltelefoner i Scale blev først ikke lavet. En måned senere blev de oprettet, men så uden datapakker på, som de var bestilt med, hvorefter der fulgte en regning på 25.000 ekstra i forhold til abonnementer, pga data.\nEfter at blive krediteret det beløb, sker det så det efterfølgende kvartal igen, hvorefter de begynder at argumentere for at de ikke skal kreditere dette beløb, da det har de gjort i forvejen. Her bruger de uigennemskuelige sammenligninger sideløbende med regninger vi har modtaget.\n\nHold dig laaangt væk fra dem! Vi forlader dem inden året er ude heldigvis...",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57d937ca0000ff000987e515",
+      "consumer": {
+        "displayName": "Kim Bisgaard Christoffersen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-07T13:13:18Z",
+      "title": "TDC erhverv til grin",
+      "text": "Ønsker du elektronisk faktura - skal du bede om lov til at blive oprettet.. WHAT ? ALLE andre i danmark har dette automatisk eller meder om ens mail, men TDC vil vel bare kræve en masse gebyr - god indtægt.\nDe pålægger gebyr og kompensations gebyr - ja for regninger de ikke sender..\nDet er ude i hampen. \nSå ringer man, snakker med flinke folk, at der er sket en fejl, man skal ikke betale gebyret, MEN så kommer der en rykker på det aligevel.. flot.\nEn skam der INTET alternativ er i mit tilfælde !",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57d0126e0000ff0009853235",
+      "consumer": {
+        "displayName": "Stefan Granholm"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-07T11:14:34Z",
+      "title": "Sender faktura trods opsagte abonnementer",
+      "text": "Jeg har lige brugt 45 minutter på at vente i telefonkøen og 15 minutter på at få afklaret at vores abonnementer virkelig var opsagt.\nDe blev opsagt i foråret, men trods det sender TDC faktura på både internet og telefon for perioden efter slutdatoen.\n\nForbrug frem til slutdato skal der selvfølgelig betales for, men at fakturere abonnement i næste periode er da for amatøragtigt. Man skulle tro de aldrig har modtaget en opsigelse før, men det tror jeg nu ikke.\nPå fakturaen var selvfølgelig heller ingen oplysning om at abonnementerne var opsagt - ringe service",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57cff69a0000ff000985248c",
+      "consumer": {
+        "displayName": "Jørn Hansen"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-09-02T10:28:08Z",
+      "title": "Sender email til spam mappe bevidst",
+      "text": "Jeg har netop i dag opdaget at jeg har fået en masse rykkere fra TDC, mange af dem har jeg ikke modtaget og nogle enkelte er endt i spam.\n\nJeg har været inde og kigge på TDC's opsætning af email og kan se at det er sat helt forkert op - så de får email programmerne til at tro at der er tale om svindel og derfor lægger deres emails i spam mappen - men i virkeligheden er der ikke tale om spam email - det bare TDC der ikke ønsker deres emails skal komme frem - for de vil gerne tjene lidt ekstra på pålægge deres kunder en masse rykker gebyrer.",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57c954380000ff000982f79f",
+      "consumer": {
+        "displayName": "Jesper"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-08-23T14:25:11Z",
+      "title": "Fortjener ikke engang én stjerne",
+      "text": "Spar dig selv for besværet med at have TDC. Har KUN oplevet problemer med dem. Lorteudbyder, som man skal afsætte et halvt døgn for en samtale på 2 minutter. Når de så \"tager\" telefonen snakker de ikke. Holder ikke aftaler. Bare hold dig fra dem.",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57bc5cc70000ff00097f275d",
+      "consumer": {
+        "displayName": "Sebastian Bøje Sundvang"
+      },
+      "companyReply": null
+    },
+    {
+      "stars": 1,
+      "createdAt": "2016-08-16T21:24:57.798Z",
+      "title": "Der bliver ikke lagt sammen på regningen ??????? hvad koster det om måneden??????",
+      "text": "Din ordre indeholder Månedspris Betales fra\nYouSee Tv Viasat Mellem m. Bredbånd 664,00 16.08.2016\nVedrørende 23 37 56 24\nNy pris Mobil 4 Timer 119,00\nAlle priser er i kr. inklusive moms",
+      "reviewUrl": "https://www.trustpilot.com/reviews/57b384a90000ff00097ca870",
+      "consumer": {
+        "displayName": "Martin Rievers"
+      },
+      "companyReply": null
+    }
+  ],
+  "links": {
+    "profileUrl": "https://www.trustpilot.com/review/www.tdc.dk",
+    "evaluateUrl": "https://www.trustpilot.com/evaluate/www.tdc.dk",
+    "evaluateEmbedUrl": "https://www.trustpilot.com/evaluate/embed/www.tdc.dk"
+  },
+  "starsString": "Poor"
+}

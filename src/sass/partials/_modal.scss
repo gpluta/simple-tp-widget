@@ -1,0 +1,160 @@
+.blanket {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  //background: rgba(#ffa82f, .6);
+  background: rgba(0,0,0,.2);
+  z-index: 999;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  position: absolute;
+  padding: 10px 20px 30px;
+
+  width: 60%;
+  min-width: 320px;
+  max-width: 600px;
+
+  height: 70%;
+  min-height: 350px;
+  max-height: 600px;
+
+  background: white;
+
+  border-radius: 5px;
+
+  box-shadow: 0 0 50px 0 rgba(0,0,0,.2);
+
+  display: flex;
+  flex-direction: column;
+}
+
+#closeModal {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 50%;
+
+  &:hover {
+    border-color: #a7a7a7;
+  }
+
+  span {
+    display: inline-block;
+    font-size: 35px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 50%;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+
+    transform: rotate(45deg);
+
+    //&:hover {
+    //  background: black;
+    //  color: white;
+    //}
+  }
+}
+
+.modal__powered {
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 0 20px 6px 0;
+
+
+  span {
+    font-size: 10px;
+    position: relative;
+    top: -2px;
+    margin-right: 7px;
+    color: #ababab;
+  }
+
+  img {
+    width: 75px;
+  }
+}
+
+.modal__title {
+  margin: 10px 0 20px;
+  text-align: center;
+  color: #767676;
+}
+
+.modal_rev-list {
+  border: 1px solid #e5e5e5;
+  overflow: auto;
+  box-shadow: inset 0 0 11px 0 rgba(0,0,0,.1);
+}
+
+.review {
+  padding: 20px 20px 10px;
+  border-bottom: 1px solid #e5e5e5;
+
+  &:hover {
+    background: #f6f6f6;
+  }
+}
+
+.review__title {
+  font-size: 14px;
+}
+
+.review__consumer {
+  font-size: 12px;
+  margin-bottom: 8px;
+  color: #888;
+
+  em {
+    font-weight: bold;
+    font-style: normal;
+  }
+}
+
+.review__stars {
+  width: 80px;
+  margin-bottom: 10px;
+}
+
+.review__text {
+  font-size: 13px;
+  color: #666;
+}
+
+.review__url {
+  text-align: right;
+  display: block;
+  margin-top: 10px;
+
+  a {
+    font-size: 12px;
+    color: #0081ff;
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .modal {
+    height: 100vh;
+    max-height: none;
+    width: 100vw;
+    border-radius: 0;
+  }
+}

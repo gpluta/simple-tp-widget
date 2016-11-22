@@ -1,0 +1,31 @@
+#renderFormButton {
+  margin: 20px 0;
+  border: 2px solid red;
+}
+
+.endpoint-config {
+  //display: flex;
+  //flex-direction: column;
+  //justify-content: flex-start;
+}
+
+#endpointUrlInput {
+  min-width: 500px;
+  padding: 5px 10px;
+}
+
+#renderFormButton {
+  background: #ffa82f;
+  color: white;
+  font-weight: bold;
+  border: 2px solid #ffa82f;
+  border-radius: 3px;
+  padding: 6px 15px;
+  cursor: pointer;
+  outline: none;
+
+  &:hover {
+    border: 2px solid darken(#ffa82f, 10%);
+    background: darken(#ffa82f, 10%);
+  }
+}

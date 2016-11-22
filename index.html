@@ -4,11 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="favicon.ico" rel="shortcut icon">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>TP simple widget</title>
     <link rel="stylesheet" href="dist/css/styles.css">
 </head>
 <body>
+<p>default endpoint:
+    <small>
+        "http://localhost:3000/trust-data.json"
+    </small>
+</p>
+
+<div class="endpoint-config">
+    <label for="endpointUrlInput">
+        <input id="endpointUrlInput"
+               value="http://localhost:3000/trust-data.json"
+               type="text">
+    </label>
+
+    <input type="button" id="renderFormButton" value="render widget">
+</div>
+
+<div class="stage">
+    <div id="widgetAnchor"></div>
+</div>
+
+<div id="modalAnchor"></div>
 
 <script src="dist/js/vendor.js"></script>
 <script src="dist/js/scripts.js"></script>
