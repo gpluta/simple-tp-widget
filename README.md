@@ -19,7 +19,7 @@ $ npm install
 $ gulp 
 ```
 
-Visit `http://localhost:3000`
+Visit `http://localhost:3000` (the page should open automatically after running `$ gulp`)
 
 ### Comment
 

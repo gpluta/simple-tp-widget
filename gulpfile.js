@@ -54,7 +54,7 @@ gulp.task('bs', () => {
       baseDir: ''
     },
     port: 3000,
-    open: false
+    open: true
   });
 });
 
