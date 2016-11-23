@@ -21,7 +21,7 @@
   max-width: 600px;
 
   height: 70%;
-  min-height: 350px;
+  min-height: 320px;
   max-height: 600px;
 
   background: white;
@@ -139,7 +139,7 @@
   }
 }
 
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 568px) {
   .modal {
     height: 100vh;
     max-height: none;
