@@ -1,6 +1,4 @@
 #TrustPilot widget
-This is an example widget made for TrustPilot recruitment process.
-
 In order to explore the widget you must launch a local Node.js server. Data from the widget are fetched from a file called trust-data.json served via http thanks to the mentioned server. The widget will not work if the server is down (for instance when the index.html is opened but the express.js server is not running.)
 
 ### Assumptions
@@ -22,7 +20,6 @@ $ gulp
 Visit `http://localhost:3000` (the page should open automatically after running `$ gulp`)
 
 ### Comment
-
 The source code for this widget consists of `index.html` file located in the root directory of the project and files in `src/` folder.
 
 The whole build pipeline is managed with **gulp**. It includes some simple build steps (JS concat, babel transpilation and uglify, clean-css for CSS, imagemin for image minification and browser-sync for serving the assets)
