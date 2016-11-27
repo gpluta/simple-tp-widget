@@ -24,4 +24,4 @@ The source code for this widget consists of `index.html` file located in the roo
 
 The whole build pipeline is managed with **gulp**. It includes some simple build steps (JS concat, babel transpilation and uglify, clean-css for CSS, imagemin for image minification and browser-sync for serving the assets)
  
-The project uses **SASS** for stylesheets, some **ES6** syntax (block-scopa variables, arrow functions and template strings) transpiled to ES5 via **babel**
+The project uses **SASS** for stylesheets, some **ES6** syntax (block-scoped variables, arrow functions and template strings) transpiled to ES5 via **babel**
