@@ -1,4 +1,4 @@
-#TrustPilot widget
+# TrustPilot widget
 In order to explore the widget you must launch a local Node.js server. Data from the widget are fetched from a file called trust-data.json served via http thanks to the mentioned server. The widget will not work if the server is down (for instance when the index.html is opened but the express.js server is not running.)
 
 ### Assumptions
